@@ -3,7 +3,7 @@
 %bcond_without	doc	# Sphinx documentation
 %bcond_with	tests	# unit tests (require some django db setup up?)
 %bcond_without	python2 # CPython 2.x module
-%bcond_without	python3 # CPython 3.x module
+%bcond_with	python3 # CPython 3.x module (built from python3-django-configurations.spec)
 
 Summary:	Helper for organizing Django settings
 Summary(pl.UTF-8):	Moduł pomocniczy do organizowania ustawień Django
