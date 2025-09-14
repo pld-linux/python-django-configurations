@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Moduł pomocniczy do organizowania ustawień Django
 Name:		python-django-configurations
 # keep 2.2 here for python2 support
 Version:	2.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/django-configurations/
